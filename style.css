@@ -148,5 +148,35 @@ h3{
 }
 
 .super-znizhka{
-    background: url();
+    background: url(https://skachpro.github.io/hata_email/img/pattern.png);
+    background-repeat: repeat;
+}
+.button-action{
+    appearance: none;
+    padding: 0px 18px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color: #1f1f55;
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.znizhka{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.znizhka p{
+    font-size: 13px;
+    line-height: 20px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.znizhka-heading{
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
 }
