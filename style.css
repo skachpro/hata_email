@@ -24,6 +24,10 @@ table{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.header-line td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 .header-italic{
     font-size: 13rem;
     color: #9999a6;
